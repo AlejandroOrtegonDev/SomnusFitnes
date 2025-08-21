@@ -1,0 +1,2002 @@
+**abs**
+
+==========================================================================================
+
+Band Twist(Down-Up)
+
+https://drive.google.com/file/d/1ZL-JeBUiz5p0rLEK4F9PW5jtxcxYcykL/view?usp=drive\_link
+
+
+
+Band Twist(Up-Down)
+
+https://drive.google.com/file/d/1fhKoeq6\_-dCot\_6S2EMGxsU8o-hFK52Z/view?usp=sharing
+
+
+
+bant Decline Sit\_Up
+
+https://drive.google.com/file/d/1GYrVdHdsM3bm8iXBT99EcffpIdIMawtX/view?usp=sharing
+
+
+
+Bant Side Bend
+
+https://drive.google.com/file/d/1rbKgxT1nHIpW5yXAuqjKcEuRYVD\_L8LA/view?usp=sharing
+
+
+
+Bant Standing Crunch
+
+https://drive.google.com/file/d/1lBrhNdGLViQIK7pFwb9layLJQFQNSZfU/view?usp=sharing
+
+
+
+Bant Twist
+
+https://drive.google.com/file/d/1kWvmJYYrInSuQ5itvXuN9zvzZ5arMTpU/view?usp=sharing
+
+
+
+Barbell Seated Twist (On Stability ball
+
+https://drive.google.com/file/d/1qioaXKF3S7avvXrgVacXtp2ce1B22mFC/view?usp=sharing
+
+
+
+Barbell Standing Twist
+
+https://drive.google.com/file/d/1HyT1Gbp0J0yJE5JejoKf--4A-ObloyPS/view?usp=sharing
+
+
+
+
+
+==========================================================================================
+
+**calf**
+
+==========================================================================================
+
+
+
+Band Two Legs Calf Raise (Band Under Leg)
+
+https://drive.google.com/file/d/1wuWRTo-bjnUdrM\_Fq2TJ9eqDH3aq5Zly/view?usp=sharing
+
+
+
+==========================================================================================
+
+Chest
+
+==========================================================================================
+
+barbell Bench Press
+
+https://drive.google.com/file/d/1f8vdVtHDM3Z9g-6ZiLopkMHeETg\_o8Fd/view?usp=sharing
+
+
+
+Barbell Clean And Press
+
+https://drive.google.com/file/d/11i\_bfl2tcGEAHZOowlMItOUfZ\_bWRbJq/view?usp=sharing
+
+
+
+Barbell Decline Bench Presh
+
+https://drive.google.com/file/d/1C8oX0XTVV5Z577TGaH7qtISrkQFY2CMT/view?usp=sharing
+
+
+
+barbell Incline Bench Press
+
+https://drive.google.com/file/d/1s48rcuB\_CUWgH9jMegSSatNHWxf9J0fu/view?usp=sharing
+
+
+
+Barbell Power Clean
+
+https://drive.google.com/file/d/1AADipYWhNlabm0P0obNq6qSM8txNYQnK/view?usp=sharing
+
+
+
+Band High Fly
+
+https://drive.google.com/file/d/16jYNTGvEtgCSsvWK8q3qvl9Dfi3SBCB9/view?usp=sharing
+
+
+
+Band Push-Up
+
+https://drive.google.com/file/d/1-QHr9I5UP9bTxOeSaFzXTaRNGyD9aHJ0/view?usp=sharing
+
+
+
+Band Warm-Up Shoulder Streatch
+
+https://drive.google.com/file/d/1UfE4dGcs9n1CzsZ3QhCWM9Tyd-RpoVRQ/view?usp=sharing
+
+==========================================================================================
+
+Gluts
+
+==========================================================================================
+
+Barbell Sumo Squat
+
+https://drive.google.com/file/d/1wz4GoNwyIcvVjwEXnACYKD2y19czeG-P/view?usp=sharing
+
+
+
+barbell Sumo Deadlift
+
+https://drive.google.com/file/d/1kc2zu7wQTlN9bsHuG7tIlh80cchiHyG-/view?usp=sharing
+
+
+
+Barbell Squat
+
+https://drive.google.com/file/d/1sG93F-KSwEaywZZ6GJyS3DbsAm9FZraB/view?usp=sharing
+
+
+
+Barbell Split Squat
+
+https://drive.google.com/file/d/1Mu82Ddxu8iVeWZ-S4NTpxcmy08TKluId/view?usp=sharing
+
+
+
+Barbell Set-Up
+
+https://drive.google.com/file/d/1jI16rhaBUz12m41juMwDHnF8KPDCktuy/view?usp=sharing
+
+
+
+Barbell Rear Lunge
+
+https://drive.google.com/file/d/1YcWxXGsuQPzZ-exAu4ZqUmC-yy7iQxYW/view?usp=sharing
+
+
+
+barbell Narrow Stance Squat
+
+https://drive.google.com/file/d/1ZSgU-vlvHF2i1WzjPjcASypSeg2pEraU/view?usp=sharing
+
+
+
+Barbell Lunge
+
+https://drive.google.com/file/d/1TOAgef2ROWCpPZ-HdvJDhPG9uRErLEyN/view?usp=sharing
+
+
+
+Barbell Low Bar Squat
+
+https://drive.google.com/file/d/1KTucnkPw3HH0\_AllNOhGmzqoGkNpHEfC/view?usp=sharing
+
+
+
+Barbell Lateral Lunge
+
+https://drive.google.com/file/d/10mGp3DalcvuKMlRPT1ZHun\_FYMwtxSc8/view?usp=sharing
+
+
+
+Barbell Hip Thrust
+
+https://drive.google.com/file/d/18myQlkfnIDHLiyr9z97yZSkZ\_HeGDCuS/view?usp=sharing
+
+
+
+Barbell Gulte Bridge (hands on bar)
+
+https://drive.google.com/file/d/18FHLs82YY-h9JfQl2C4UnwsgdFsr9l5X/view?usp=sharing
+
+
+
+Barbell full Zercher Squat
+
+https://drive.google.com/file/d/11ucWHciUQgRII6JrsHgSf2VKEN07PCLG/view?usp=sharing
+
+
+
+Barbell Full Squat (Rack)
+
+https://drive.google.com/file/d/1E1vMx-akKLittzCkw4\_k0xEj9NFrq1Sv/view?usp=sharing
+
+
+
+Barbell Front Squat
+
+https://drive.google.com/file/d/1t1Ty88Vw0\_GvxdlEXmFq4254XBYbbqgc/view?usp=sharing
+
+
+
+Barbell Front Rack Lunge
+
+https://drive.google.com/file/d/1ZPOLH24ADqiB-VKktiM4nH9SkgoINYIe/view?usp=sharing
+
+
+
+Barbell Deadlift
+
+https://drive.google.com/file/d/1baHLGeJZqpFOTrS-mF17\_yzBHdgNcMSD/view?usp=sharing
+
+
+
+Barbell Clean-Grip Front Squat
+
+https://drive.google.com/file/d/1rZmUFY65moCwJ8WWCQ3g1icRvux5VxPI/view?usp=sharing
+
+
+
+Barbell bench Squat
+
+https://drive.google.com/file/d/13NSKzb8oWNUcJQr\_1bZOzNgadkRBZoSj/view?usp=sharing
+
+
+
+Band Bent\_Over Hip Extansion
+
+https://drive.google.com/file/d/1NvLgSvN8vvHdPeOI1t-bmv88yXMVgY4E/view?usp=sharing
+
+
+
+Band Deadlift
+
+https://drive.google.com/file/d/1PNbd\_ONnrVZ7v-yjR283pKCfjDmyhZnr/view?usp=sharing
+
+
+
+Band Hip Abduction
+
+https://drive.google.com/file/d/109B1n7cMqqOvM-oqHnkh1Ew6tBMS6VNg/view?usp=sharing
+
+
+
+Band kneeling rear kick
+
+https://drive.google.com/file/d/1fnFbaLoHP1R6xqlBaN-daizKA4H4QB5Q/view?usp=sharing
+
+
+
+
+
+Band Pull Through
+
+https://drive.google.com/file/d/11KPuDKN\_HFgpDZggwf6qqimduX67aHfP/view?usp=sharing
+
+
+
+Band Squat
+
+https://drive.google.com/file/d/1g7GdAmeC9TwqSLePZHDJ1sWG0jP0fR3P/view?usp=sharing
+
+
+
+Band Standing Hip Extansion
+
+https://drive.google.com/file/d/1iAxd0qliVPvZY\_QnSJLfGVyBMgJwOFfi/view?usp=sharing
+
+
+
+band Stright Back Stiff Leg Deadlift
+
+https://drive.google.com/file/d/1DjTfcj3-LHvWsN9bQ4TcZhWr-He59WKq/view?usp=sharing
+
+==========================================================================================
+
+Hamstring
+
+==========================================================================================
+
+
+
+Band Assisted Pull-Up(V3)
+
+https://drive.google.com/file/d/1lwok3iYbiRHwfohrD9fO0\_z5ewnjdmtO/view?usp=sharing
+
+
+
+
+
+Band Bent-Over Row
+
+https://drive.google.com/file/d/1YZEvbuifBGOnl5FqfBXh1gpFO84Pkb46/view?usp=sharing
+
+
+
+
+
+Band Kneeling one Arm Pulldown
+
+https://drive.google.com/file/d/189FP-5gSthWzneOZPXDOOaGQ-3Gm-rZz/view?usp=sharing
+
+
+
+Band One Arm Twisting Seated Row
+
+https://drive.google.com/file/d/1DYQVLolvJQKS99VRjB37KjiKoTdI0d5f/view?usp=sharing
+
+
+
+Band Seated Row
+
+https://drive.google.com/file/d/16DSyWA5XDlY-Tz8vFdZOCas\_erHxiljg/view?usp=sharing
+
+
+
+
+
+Band Seated Stright Back Row
+
+https://drive.google.com/file/d/1X8nWtzMQsWnrJ77X5XJH6HXDxLQaF7fq/view?usp=sharing
+
+
+
+Band Standing Leg Curl
+
+https://drive.google.com/file/d/1jqDSijZJoHxSF\_\_8Q5uJXzIRsyE8DzF8/view?usp=sharing
+
+
+
+Band Stright Back Seated Row
+
+https://drive.google.com/file/d/1yjONKzKIfUIEYn5J628GCzO2fNGQ74Ka/view?usp=sharing
+
+==========================================================================================
+
+QUADRICEPS
+
+==========================================================================================
+
+
+
+band Hip Adduction
+
+https://drive.google.com/file/d/1HedvusFP3beL4vtxgjs2hy5gurlNTOni/view?usp=sharing
+
+
+
+Band Seated Leg Extension
+
+https://drive.google.com/file/d/1JI7QupNi7jlLb1hzgo5bSoaTBMyeLVrY/view?usp=sharing
+
+
+
+band Thruster
+
+https://drive.google.com/file/d/1i67NYoQieOW2OoOtG\_qSdJDt0p4C8Jyd/view?usp=sharing
+
+
+
+Intermediate Hip Flexor And Quand Stretch
+
+https://drive.google.com/file/d/1lExxRE-rYIvPcYFQLUZQ1UY64xMOrzaH/view?usp=sharing
+
+==========================================================================================
+
+Shoulder
+
+==========================================================================================
+
+
+
+Barbell Front Raise
+
+https://drive.google.com/file/d/1piTfstmMKvKSVjNUSyg5n2ZIVovtsCJM/view?usp=sharing
+
+
+
+band Bent-Over Rear lateral raise
+
+https://drive.google.com/file/d/1kNY7JIijfgsAIMjU2kOCS0i2VxjxpLZc/view?usp=sharing
+
+
+
+Band Face Pull
+
+https://drive.google.com/file/d/1j5Y5-ZWNUyh7ex-zrMLRGBPVMkFLyXhl/view?usp=sharing
+
+
+
+Band Front lateral raise
+
+https://drive.google.com/file/d/1WFUBsxSLpQxqyxfDuYXM90ZqYF1WFVqc/view?usp=sharing
+
+
+
+Band Standing Rear Delt Row
+
+https://drive.google.com/file/d/1S4a6pZMu8v4yMSBsQCWImNLEriQa6J9o/view?usp=sharing
+
+
+
+Barbell Rear Delt Raise
+
+https://drive.google.com/file/d/19JpHHIWH0e15M6j1uuFjOPyoPW0EhHrB/view?usp=sharing
+
+
+
+Barbell Seated Behind Head Militry Press
+
+https://drive.google.com/file/d/1aj34lsfdhDEAC-1GUmtm3USLY12Hspxn/view?usp=sharing
+
+
+
+Barbell Seated Overhand Press
+
+https://drive.google.com/file/d/1cERZp1X1J-RiZLliikOfa2-sDNyxHK14/view?usp=sharing
+
+
+
+Barbell Upright Row
+
+https://drive.google.com/file/d/1x4L3LiVFXuj2g5xNrNtPDUyeROmk-pKT/view?usp=sharing
+
+
+
+Barbell Wide-Grip Upright Row
+
+https://drive.google.com/file/d/1RjEFkLkTAo7-UkGytbgZXtx\_TUGHIda1/view?usp=sharing
+
+
+
+
+
+==========================================================================================
+
+BICEPS
+
+==========================================================================================
+
+Barbell Drag Curl
+
+https://drive.google.com/file/d/1L8TbGBaG1C2HfJ5tcIv40zy5BJ1RGy16/view?usp=sharing
+
+
+
+Barbell Preacher Curl
+
+https://drive.google.com/file/d/1GDcYy9dUG9AOQd-2soAD85SXrTnUeUK2/view?usp=sharing
+
+
+
+Barbell Prone Incline Curl
+
+https://drive.google.com/file/d/1yN5oB8uBD9j7kwMMk7sjnsxC7OEH2iWJ/view?usp=sharing
+
+
+
+Barbell Wrist Curl
+
+https://drive.google.com/file/d/1WwKp6bzoacg48dYjO9cNMutkdnea-vl2/view?usp=sharing
+
+
+
+Berbell Curl
+
+https://drive.google.com/file/d/1iXVSrVATiOxRowhLnAgZ1ZVBMGlO57P3/view?usp=sharing
+
+==========================================================================================
+
+LATS
+
+==========================================================================================
+
+Barbell Bent-Over Row
+
+https://drive.google.com/file/d/1v3JMI9qjSE79yRMG0C6hVfP0sgQEf\_PK/view?usp=sharing
+
+
+
+Barbell Rack Pull
+
+https://drive.google.com/file/d/1mh0twNmXuobF-jSZt80OulKEaP\_tVACL/view?usp=sharing
+
+
+
+Barbell Reverse-Grip Bend-Over Row
+
+https://drive.google.com/file/d/1iy8VJ\_\_pnVR\_dh7d65NPI7NHnFx49E0U/view?usp=sharing
+
+
+
+Barbell Romanian Deadlift
+
+https://drive.google.com/file/d/1jg0Hd\_5R-v0lJ8eeLQ\_a-JcmG8wwZ2pE/view?usp=sharing
+
+
+
+Barbell Straight Leg Deadlift
+
+https://drive.google.com/file/d/1i2HxUubLQklEyyXAqjfbbfmEwkwSWxK9/view?usp=sharing
+
+
+
+==========================================================================================
+
+BICEPS
+
+==========================================================================================
+
+
+
+Barbell Close-Grip Bench Press
+
+https://drive.google.com/file/d/1oL1OH5iGWhLytqSx\_uSgaf3\_3s4Gl6sr/view?usp=sharing
+
+
+
+Barbell Good Morning
+
+https://drive.google.com/file/d/1zWWMAmLlZLTTJRMs-0jsi9rw6pYvYa34/view?usp=sharing
+
+
+
+barbell Lying Triceps Extension
+
+https://drive.google.com/file/d/1EbmHafMHWemNK9-bX9ghk8WCk5URJ5Uj/view?usp=sharing
+
+
+
+Barbell One Leg Split Squat
+
+https://drive.google.com/file/d/14IevmQQmVMtIXwPsZabkYIiMUTsl1U\_t/view?usp=sharing
+
+
+
+Barbell Shrug
+
+https://drive.google.com/file/d/1DgYswqW9Fjsa2sBqEnhvWtJtBitM0tHS/view?usp=sharing
+
+
+
+Barbell Standing Overhand Triceps
+
+https://drive.google.com/file/d/1gMvBtLcSmPX8BnQFqjk3R\_hHaAioZx5T/view?usp=sharing
+
+
+
+Barbell wide Squat
+
+https://drive.google.com/file/d/1dpnftHtRWTVnORMIxarZfI\_S1jYfnmM7/view?usp=sharing
+
+
+
+Old School Reverse Extension
+
+https://drive.google.com/file/d/1QY50O8-iqpvoPXb5usWsF09ximhFjR-8/view?usp=sharing
+
+
+
+===========================================================================================
+
+45 Degrees Step Out
+
+https://drive.google.com/file/d/1\_y0apPjdcv1lGYdfG3vU8eI2ehMN4Vcl/view?usp=drive\_link
+
+
+
+Bodyweight long Rear Lunge
+
+https://drive.google.com/file/d/1bTmFw5PbMz7R5uvd-e4BB1sXQqleW5ie/view?usp=sharing
+
+
+
+Bodyweight Lying Leg curl
+
+https://drive.google.com/file/d/1-Z-gN87CgyQxWaEWydvEBOZtt7sytoWo/view?usp=sharing
+
+
+
+Bodyweight Step-Up on Stepbox
+
+https://drive.google.com/file/d/1T77VncvgbhPu1rTlQAxswjLQZ2wQXVDv/view?usp=sharing
+
+
+
+Clap Curtsey Squat
+
+https://drive.google.com/file/d/15m1YgZqlaepAqYXDB4VcCuAKoI96o60w/view?usp=sharing
+
+
+
+Glute Ham Raise (V2)
+
+https://drive.google.com/file/d/1xqyXVd2lS2Z5YAkYvcvCkNaig1OzoL0T/view?usp=sharing
+
+
+
+High Lunges
+
+https://drive.google.com/file/d/1KLpyuTkHeQSgjO0Byw4Iq8sSgNFhCImi/view?usp=sharing
+
+
+
+Jack Split Crunches
+
+https://drive.google.com/file/d/1CCbO\_erQe6dAKHLFI-eSSxYcJh-dRmeY/view?usp=sharing
+
+
+
+Jump Step-Up
+
+https://drive.google.com/file/d/1rm8RYUuk-0h1X\_8YOZa3Nsxxu6fg\_Wyr/view?usp=sharing
+
+
+
+Lying Hip Straight Leg Raise
+
+https://drive.google.com/file/d/1gVaoBjlymoPxzfOYmWNuJsJB\_Fpt3QnF/view?usp=sharing
+
+
+
+
+
+Lying Scissor Kick
+
+https://drive.google.com/file/d/1HEBh1w6ZYp56QaNxZpe6QlFHh5OIjiWJ/view?usp=sharing
+
+
+
+PIstal Squat to Box
+
+https://drive.google.com/file/d/1njEQKZEuwbvVAGydUi-4qyNqkEOkQd2g/view?usp=sharing
+
+
+
+Pulse Split Lunge
+
+https://drive.google.com/file/d/1YTHWu5M1vPwdjl7HwrOw91Uvnv92qCWv/view?usp=sharing
+
+
+
+
+
+Punches side lunges
+
+https://drive.google.com/file/d/1x3YEDctk4gy-uCWae-cKDP-8fYdnqceh/view?usp=sharing
+
+
+
+Quadriceps Lying Stretch
+
+https://drive.google.com/file/d/1ecaT6EjN2IqIFEeFVg6spOVJWFtd8siB/view?usp=sharing
+
+
+
+Quadriceps Stretch
+
+https://drive.google.com/file/d/1lFTYkhCbwnSFotwKj\_nbHCCMojX2oZpI/view?usp=sharing
+
+
+
+Rear Lunge Front Raise.
+
+https://drive.google.com/file/d/1-PQnDuAXVZwPhUHtrBJi7PmdK1EGmwsp/view?usp=sharing
+
+
+
+Roll Rectus Femoris
+
+https://drive.google.com/file/d/1ee3UZmKG5xe\_hIxmcDGk6Lz8S3zzaXnX/view?usp=sharing
+
+
+
+Seated Hip External Rotator And Hip Extensor
+
+https://drive.google.com/file/d/1n9R8bW5EQIBNY6lKBW8dfvf4cN6pMFiF/view?usp=sharing
+
+
+
+Side Lying Hip Adduction
+
+https://drive.google.com/file/d/1wg-CtPsvUAN6nhjpR5oOTOWXCSRpX0iC/view?usp=sharing
+
+
+
+Side lying Leg Circle
+
+https://drive.google.com/file/d/1M9OPO7ml0kbnoroY-iaL9e7WnxXu4WkA/view?usp=sharing
+
+
+
+Side Squat Step
+
+https://drive.google.com/file/d/18U9tOGRmw8vlBb0JxLbRyD-YF37117Es/view?usp=sharing
+
+
+
+Side to Side Leg Swing
+
+https://drive.google.com/file/d/1vuGQO8Yp5oKvOnncXt-8-e6HgAh9EUza/view?usp=sharing
+
+
+
+Sissy Squat Bodyweight
+
+https://drive.google.com/file/d/1biegJ55BwzJIeM89\_D81cpPxjsT\_xd9X/view?usp=sharing
+
+
+
+Split Squat Elevated
+
+https://drive.google.com/file/d/1Cnp\_h2bxYsQvZvCd2nDuaCLe-705-lZQ/view?usp=sharing
+
+
+
+Squat and 5 Bounces
+
+https://drive.google.com/file/d/1-99ViLuXgVTYyMMHsk670Oy8FTeNCTcS/view?usp=sharing
+
+
+
+Squat and Tip Tose
+
+https://drive.google.com/file/d/1bfIbhXRaI5xCkxvNNK4eZRH1PhUXzYDf/view?usp=sharing
+
+
+
+Standing Balance Quadriceps Stretch
+
+https://drive.google.com/file/d/1Kjx-6KBAMLY19giFOxhMpgX8WE83JBFr/view?usp=sharing
+
+
+
+Standing leg curl
+
+https://drive.google.com/file/d/1bNp0o4jLBo76LqRU97mKpI9w5m36rS0z/view?usp=sharing
+
+
+
+Straight leg sit-up
+
+https://drive.google.com/file/d/1gbf7zRUqPcNDoNf0hmrYDeYL1TUewmfk/view?usp=sharing
+
+
+
+V-Up Double Crunch
+
+https://drive.google.com/file/d/1aIvpcuVU52fQrdtl69aGCE4NG3pE5wHn/view?usp=sharing
+
+
+
+Cable Kneeling Crunch
+
+https://drive.google.com/file/d/1h0kOJ4ZypWXLfHMTbQs6Hto7HyZbYSTk/view?usp=sharing
+
+
+
+Cable Seated Twist On Floor
+
+https://drive.google.com/file/d/1PcXApCNwS5XbvBk0UZZjbYOE1HJn-H0q/view?usp=sharing
+
+
+
+Cable Standing Crunch
+
+https://drive.google.com/file/d/1I5cqt4cZXLfzdZZI6RIVpX9dJITw9D-v/view?usp=sharing
+
+
+
+Cable Twist (Down-up)
+
+https://drive.google.com/file/d/1rsYCIaU0gKY7RtzSQxKLyxwB0VMu4xv2/view?usp=sharing
+
+
+
+Cable Twist (Up-Down)
+
+https://drive.google.com/file/d/1penjWogQ-cdOiDJERDYoB8PcmOF9wGKj/view?usp=sharing
+
+
+
+Cable Twist
+
+https://drive.google.com/file/d/12bRCBMHQOnwTX3waPVl-zK-apYKr1NJx/view?usp=sharing
+
+
+
+Cable Hammer Curl (Rope)
+
+https://drive.google.com/file/d/17EQPKuj6q1GqH8GLiXNjirS7BGESb5T3/view?usp=sharing
+
+
+
+Cable Hammer Curl
+
+https://drive.google.com/file/d/1H8LiNcBICc-b\_ZbjqnoqMy5BI309vWDB/view?usp=sharing
+
+
+
+Cable Lying Bicep Curl
+
+https://drive.google.com/file/d/16-Bd2DpjpSO5dfdu\_uf-JwNNDOY-CdiT/view?usp=sharing
+
+
+
+Cable Lying Biceps Curl
+
+https://drive.google.com/file/d/1AUWhMMCPd35xpnEp2XUvWmMukonahCUX/view?usp=sharing
+
+
+
+Cable one arm curl
+
+https://drive.google.com/file/d/1\_\_afmcK5kVTHdFD9Dz8I4mwoNfX9lr2T/view?usp=sharing
+
+
+
+Cable Standing Inner Curl
+
+https://drive.google.com/file/d/1OQtvBJjGyR954W\_xK6FPUdY3FgEd8FQN/view?usp=sharing
+
+
+
+Cable Decline Fly
+
+https://drive.google.com/file/d/1DRDCGBvzugSHG2lOisa5Nk2Fpa3\_vJmq/view?usp=sharing
+
+
+
+Cable Incline Fly
+
+https://drive.google.com/file/d/13aKQ46CrT4UEu44kv3Yddktb0LcXBXJv/view?usp=sharing
+
+
+
+Cable Low Fly
+
+https://drive.google.com/file/d/1vgt\_aOx9PM2M\_\_vxZzVfEF6V8e3L8ZzQ/view?usp=sharing
+
+
+
+Cable Lying Fly
+
+https://drive.google.com/file/d/1Q5FcC49qtd7beiXvt-ji1uqmidLBI-5x/view?usp=sharing
+
+
+
+Cable Standing Chest Press
+
+https://drive.google.com/file/d/1f5lZz03out6kEQlypbCXBf\_BDxMEule0/view?usp=sharing
+
+
+
+Cable Standing-Up Straight Crossover
+
+https://drive.google.com/file/d/1Om-grM9NVu\_OcrolzB4eWQkWVBbxQtXm/view?usp=sharing
+
+
+
+Cable Upper Chest Croseover
+
+https://drive.google.com/file/d/1p1Ugp2u7-lf3UE2wPYQHZNU8gm7JeFuX/view?usp=sharing
+
+
+
+Cable Reverse Curl
+
+https://drive.google.com/file/d/1TC9pmunX6Kt8LVQxH-XXo4EBJ1HmtHRk/view?usp=sharing
+
+
+
+Cable Standing Reverse-Grip Curl
+
+https://drive.google.com/file/d/1D9W-fbo8iiUubNGgtY5paU-ZS6Y\_IBHw/view?usp=sharing
+
+
+
+Cable Reverse Curl
+
+https://drive.google.com/file/d/1TC9pmunX6Kt8LVQxH-XXo4EBJ1HmtHRk/view?usp=sharing
+
+
+
+Cable Standing Reverse-Grip Curl
+
+https://drive.google.com/file/d/1D9W-fbo8iiUubNGgtY5paU-ZS6Y\_IBHw/view?usp=sharing
+
+
+
+Cable Donkey Kickback
+
+https://drive.google.com/file/d/1ZZkibZlLizvhZ2-hp\_9G6E-pF64aVpUN/view?usp=sharing
+
+
+
+Cable Gulte Dominant Stand-Up
+
+https://drive.google.com/file/d/1gyEWnb7OKGlcI28NwGPpQ-uSph9Es2o0/view?usp=sharing
+
+
+
+Cable Hip Abduction (V2)
+
+https://drive.google.com/file/d/1VXuKjD\_L7PTQ6P23o0ThuVYX2ery5jQh/view?usp=sharing
+
+
+
+Cable Narrow Chair Stand-Up
+
+https://drive.google.com/file/d/1mY30i7dT3V0z6jBicE324iG5kgFaFesi/view?usp=sharing
+
+
+
+Cable Pull Through (Rope)
+
+https://drive.google.com/file/d/1ExMVg3K1nRVehHDWDlWUQ6Dv2Ksmeld9/view?usp=sharing
+
+
+
+Cable Pull Through
+
+https://drive.google.com/file/d/1jQSiRDa85jGKNhIykqumCPUkIk4bCL2d/view?usp=sharing
+
+
+
+Cable Standing Hip Extension
+
+https://drive.google.com/file/d/11RvI4mI1AMuifsb0ZlH5zifNb9V5VVq7/view?usp=sharing
+
+
+
+Cable Close-Grip Front lats Pulldown
+
+https://drive.google.com/file/d/1biB0u3blujl2Kol-NZMuukBhMlPo-q1h/view?usp=sharing
+
+
+
+Cable Front Seated Row
+
+https://drive.google.com/file/d/1KUOnFaRCKARgXbplW7uJVLaXTFzhf7or/view?usp=sharing
+
+
+
+Cable Hip Adduction
+
+https://drive.google.com/file/d/12JOaE-YYv6t5E0mX7CXyEJtiwdbKntza/view?usp=sharing
+
+
+
+Cable incline PushDown
+
+https://drive.google.com/file/d/1DFn2c54jgIRIJTiSO5-7Ihm71YqyGQpp/view?usp=sharing
+
+
+
+Cable Lat Pulldown
+
+https://drive.google.com/file/d/1fuVrNNIbaqn3dmMRZjoppZmFsmOfbcng/view?usp=sharing
+
+
+
+Cable Low Seated Row
+
+https://drive.google.com/file/d/1JAafm22xvQCB48tkdn2V5xyAonzulKvb/view?usp=sharing
+
+
+
+Cable One Arm Lat Pulldown
+
+https://drive.google.com/file/d/1SKWC6QIpuOPC2OZa1FvZndKKeef4088w/view?usp=sharing
+
+
+
+Cable One Arm Twisting Seated Row
+
+https://drive.google.com/file/d/1jUbOgW9wX6xHkxYioFObiD9PzKsXPFjO/view?usp=sharing
+
+
+
+Cable Reverse-Grip Pulldown
+
+https://drive.google.com/file/d/1sck5VV2ixxi9Bt2zCSBbEjiv1EvcCbjo/view?usp=sharing
+
+
+
+Cable Seated High Row (V-bar)
+
+https://drive.google.com/file/d/1AVYMBuojhyLHY4Kssgk66a2nL6WRyIF0/view?usp=sharing
+
+
+
+Cable Seated Row
+
+https://drive.google.com/file/d/1zciczl9ETyvSnpxEFEbY7a66VhZ\_igdx/view?usp=sharing
+
+
+
+Cable Seated wide-Grip Row
+
+https://drive.google.com/file/d/1i9xWu5oBZd4IhiVWP8udHwKbxwXJ2-Hj/view?usp=sharing
+
+
+
+Cable Staff Lg Deadlift from Stepbox
+
+https://drive.google.com/file/d/1U0LtKnFigKTSoFuZ0DBhzzeaWK2vES1f/view?usp=sharing
+
+
+
+Cable Straight Arm Pulldown (V2)
+
+https://drive.google.com/file/d/1BaDkeyj\_FGCUnPbQIqBqs7adr2N\_7OBA/view?usp=sharing
+
+
+
+Cable Straight Back Seated Row
+
+https://drive.google.com/file/d/1wMlCr2z7J0Az90G-EWf3zQY1Z03S-Rfg/view?usp=sharing
+
+
+
+Cable Wide-Grip Let Pulldown
+
+https://drive.google.com/file/d/1wYsY7BQxymydlZ7mlE8kpETkS6NOgq2N/view?usp=sharing
+
+
+
+Cable Wide-Grip Let Pulldown
+
+https://drive.google.com/file/d/1wYsY7BQxymydlZ7mlE8kpETkS6NOgq2N/view?usp=sharing
+
+
+
+Cable Crossover Reverse Fly
+
+https://drive.google.com/file/d/1ql5ArOGajvIT5iqvLZWY8ecYnGXWBiy1/view?usp=sharing
+
+
+
+Cable Front Raise
+
+https://drive.google.com/file/d/1ToR3UWeIH9Uzajknx0bfSZt\_lokcW3xG/view?usp=sharing
+
+
+
+Cable lateral Raise
+
+https://drive.google.com/file/d/1EH5at5UWsEkHHLH88ubPLSlsEgC2XQDd/view?usp=sharing
+
+
+
+Cable One Arm Front Raise
+
+https://drive.google.com/file/d/1yJiESclQLZJQ0nyu6vss81Mq78foDV1S/view?usp=sharing
+
+
+
+Cable One Arm Lateral Raise
+
+https://drive.google.com/file/d/1lZL3OanqEXNF9Bir57rFpKt2FainFLkp/view?usp=sharing
+
+
+
+Cable Standing Rear Delt Row (Rope)
+
+https://drive.google.com/file/d/1j9nL1RFte39ZAi0LDVmvyYFNG-Ht00Ze/view?usp=sharing
+
+
+
+Cable Upright Row
+
+https://drive.google.com/file/d/1AE8-I0UjzHtX9xtH0\_sZ8wgJ-MxoUucB/view?usp=sharing
+
+
+
+Arm Crossover
+
+https://drive.google.com/file/d/1p\_GjH7DOafKUSZFWMWrd\_8aEZkqupDM9/view?usp=sharing
+
+
+
+Back pec Stretch
+
+https://drive.google.com/file/d/12HruNs1zTUrwVcreFEJGfDojgMg1fxjX/view?usp=sharing
+
+
+
+Bodyweight Standing Fly
+
+https://drive.google.com/file/d/1eE\_mIwyySQtSVHwPsM1Am4IxoUFZOtlC/view?usp=sharing
+
+
+
+Cable High Pully Ovr Head Tricps Extension
+
+https://drive.google.com/file/d/10O9b0hwTseMS\_-GRdXDM5talS\_8fmYYq/view?usp=sharing
+
+
+
+Cable Kickback
+
+https://drive.google.com/file/d/1iDYkKto1e67ykLDkf0S7ltu9RWg7SPTZ/view?usp=sharing
+
+
+
+Cable Lying Triceps Extension
+
+https://drive.google.com/file/d/1PAEkoqxR7FXp\_9n58aPszyy9mwvzvHg0/view?usp=sharing
+
+
+
+
+
+Cable Lying Triceps Extension
+
+https://drive.google.com/file/d/1PAEkoqxR7FXp\_9n58aPszyy9mwvzvHg0/view?usp=sharing
+
+
+
+Cable Overhand Triceps Extension (Rope)
+
+https://drive.google.com/file/d/16ATOvf5XGRuM-zB6l8DIPqPKGxtf-4Qa/view?usp=sharing
+
+
+
+Cable Pushdown
+
+https://drive.google.com/file/d/1PLEwrYTYxdY8VfsusJDntm5ZjOMT7JYm/view?usp=sharing
+
+
+
+Cable Reverse-Grip Pushdown
+
+https://drive.google.com/file/d/1ErQLZnceEY\_6DC0S81bbCNQxv3gBL6nK/view?usp=sharing
+
+
+
+Cable Standing One Arm Triceps Extension
+
+https://drive.google.com/file/d/1x8qq-K5u9gOVeDr03jli3BvkCWCLmtB8/view?usp=sharing
+
+
+
+Cable Triceps Pushdown (V-bar)
+
+https://drive.google.com/file/d/1qHgevmcbfCIL1yauSiyJsESB5zceTg\_G/view?usp=sharing
+
+
+
+Dumbal side bend
+
+https://drive.google.com/file/d/1Fd5CWbNLfDqdvNaP41\_0XmQiwNlYPE19/view?usp=sharing
+
+
+
+Dumbbell Curl To Press
+
+https://drive.google.com/file/d/19G\_72-oDS99vnR4zq\_0jjsuMiYIfDYiN/view?usp=sharing
+
+
+
+Dumbbell One Arm Zottman Preacher Curl
+
+https://drive.google.com/file/d/1oJnrEduOm2U0lXfbfXfaStZ0C70SVsjT/view?usp=sharing
+
+
+
+Dumbbell preacher Curl over Exercise Ball
+
+https://drive.google.com/file/d/156ZMUYZ-Xo4GGVtLbbGTGclI1w6LEGV2/view?usp=sharing
+
+
+
+Dumbbell V-Up
+
+https://drive.google.com/file/d/1ME86v3uVa6828uRAq1b802drgc8Gp2IT/view?usp=sharing
+
+
+
+Spell Caster
+
+https://drive.google.com/file/d/1SFq6YJgjiS-q-KhYAYtqNIlnMzyK-pso/view?usp=sharing
+
+
+
+Dumbbell Alternate Biceps Curl
+
+https://drive.google.com/file/d/1hz\_txnLo6SGlIA4E07ZluNUenFE8yGvS/view?usp=sharing
+
+
+
+Dumbbell Biceps Curl
+
+https://drive.google.com/file/d/15hnKsMgvZ7f\_6rz-jnZq0Ia5k4PfCQqN/view?usp=sharing
+
+
+
+Dumbbell Concentration Curl
+
+https://drive.google.com/file/d/1lNLe7V8TzFhXMfYFPfMUf6hWYwVaKvtt/view?usp=sharing
+
+
+
+Dumbbell Concentration Curl
+
+https://drive.google.com/file/d/1\_5RWuXpyP55MXwK93D0yrGrHQ1lNZLwz/view?usp=sharing
+
+
+
+Dumbbell Hammer Curl
+
+https://drive.google.com/file/d/1MNDKuUpMic8lL36dQQN8STI3yzEAw2K\_/view?usp=sharing
+
+
+
+Dumbbell Incline Biceps Curl
+
+https://drive.google.com/file/d/1btvE2CMghc2cwta-k2RsB4aUzIcR79v3/view?usp=sharing
+
+
+
+Dumbbell Incline Hammer Curl
+
+https://drive.google.com/file/d/1Rclr4g\_gROXj3Iw12HKva1yzxvbQgqus/view?usp=sharing
+
+
+
+Dumbbell Incline Straight Curl
+
+https://drive.google.com/file/d/10MoP0HH-B3IPcskwjcaqQ\_7JZhWHVlNR/view?usp=sharing
+
+
+
+Dumbbell One Arm Zottman Preacher Curl
+
+https://drive.google.com/file/d/1bw8awny3ZVAElTPbA46zS5TWA8Pk11A1/view?usp=sharing
+
+
+
+Dumbbell Preacher Curl
+
+https://drive.google.com/file/d/1miN5ENP7O2A\_Q1GLSHm4hLGd\_MQXKXF4/view?usp=sharing
+
+
+
+Dumbbell Prone Incline Curl
+
+https://drive.google.com/file/d/1X9moXYOkk-crsa1chsV5AFpm4okaymi5/view?usp=sharing
+
+
+
+Dumbbell One Leg Calf Raise
+
+https://drive.google.com/file/d/1U3V9R\_F4fF0cMz0vIrFfrOaHoCnI1GrM/view?usp=sharing
+
+
+
+Dumbbell Seated Calf Raise
+
+https://drive.google.com/file/d/1u5JaYn\_JzfAStP0jmdgNT5pjS1sVVY84/view?usp=sharing
+
+
+
+Dumbbell Standing Calf Raise
+
+https://drive.google.com/file/d/1u7Dkzz-2zuF38tCa9iU-nPCqR70HIMkM/view?usp=sharing
+
+
+
+Dumbbell Standing One Leg Calf Raise
+
+https://drive.google.com/file/d/1HuV\_IlJxmbI0ArsLSwmaK3HpcseWafuk/view?usp=sharing
+
+
+
+Deep Push-Up
+
+https://drive.google.com/file/d/1AS5WPnLdSOSApwqPQpMxLskLBkDDvmDU/view?usp=sharing
+
+
+
+Dumbbell Alternate Floor Press
+
+https://drive.google.com/file/d/16W41TGEmWcs05vYfF1H7yuJ6DZu68gjd/view?usp=sharing
+
+
+
+Dumbbell Beanch Press
+
+https://drive.google.com/file/d/11J4kSkN-eBxJwrRpV4O\_hEEm0t2eUa-J/view?usp=sharing
+
+
+
+Dumbbell Decline bench press
+
+https://drive.google.com/file/d/1pvghcoq2IT2PbD6aw7ny2PPDF4cCcWZF/view?usp=sharing
+
+
+
+Dumbbell Decline Twist Fly
+
+https://drive.google.com/file/d/1BquvifnA7LBHFngy8MYc82IM1kvYCgaL/view?usp=sharing
+
+
+
+Dumbbell Fly On Exercise Ball
+
+https://drive.google.com/file/d/1pY0XGMLIuwNS0pJvWyPelUc6BUZMdoK0/view?usp=sharing
+
+
+
+Dumbbell Fly
+
+https://drive.google.com/file/d/1TZpjzrqWTUtQZ7h8TNMLsPwVWstFEo5m/view?usp=sharing
+
+
+
+Dumbbell Incline Bench Press
+
+https://drive.google.com/file/d/1nNd8-8nEa9Dqo\_N3pelg\_GA5OD9LRBEX/view?usp=sharing
+
+
+
+Dumbbell Incline Fly
+
+https://drive.google.com/file/d/1ce8bOUjml1nMMUrZ5-z5c8LjysLMiBci/view?usp=sharing
+
+
+
+Dumbbell Incline Hammer Press
+
+https://drive.google.com/file/d/1zKwmXnlWbs-wtt2LphO5k58wiKVdiIar/view?usp=sharing
+
+
+
+Dumbbell lying Hammer Press
+
+https://drive.google.com/file/d/1T6mFhdirH9zvj\_hlTwWCYGZWhmYRkgAg/view?usp=sharing
+
+
+
+Dumbbell lying Hammer Press
+
+https://drive.google.com/file/d/1T6mFhdirH9zvj\_hlTwWCYGZWhmYRkgAg/view?usp=sharing
+
+
+
+Dumbbell Lying On Floor Hamer Press
+
+https://drive.google.com/file/d/1w0zOrd3TI8LqFcyZRVutRBmWPWuiBv7Z/view?usp=sharing
+
+
+
+Dumbbell One Arm Snatch
+
+https://drive.google.com/file/d/18iw3qHVxwGjibXM7h9qOjatOKu45\_vlP/view?usp=sharing
+
+
+
+Dumbbell PullOver on Exercise Ball
+
+https://drive.google.com/file/d/1dzy\_mvA6eBMkja\_r6J\_8aqmgWIjau81C/view?usp=sharing
+
+
+
+Dumbbell Stright Arm Pullover
+
+https://drive.google.com/file/d/1fUnRynDu3UOz5b\_uDLFgFB50fvr6hBCK/view?usp=sharing
+
+
+
+Dumbbell Behind Back Finger Curl
+
+https://drive.google.com/file/d/1WlV77jpG0xs8JscvESlftaiLCmwrzCJJ/view?usp=sharing
+
+
+
+Dumbbell Cross Body Hammer Curl (V2)
+
+https://drive.google.com/file/d/13GREndOLzJBy0Of0LSilXKb8K3nm17xk/view?usp=sharing
+
+
+
+Dumbbell lying Supine Curl
+
+https://drive.google.com/file/d/1jPFjxeTqgEm55aVFU0GP5sC-6OsTEVLR/view?usp=sharing
+
+
+
+Dumbbell Over Bench Wrist Curl
+
+https://drive.google.com/file/d/1b-MHtCS\_5vYuFpl1bDTQxlfGXyXeDf7x/view?usp=sharing
+
+
+
+Dambbell Overhead Squat
+
+https://drive.google.com/file/d/1gj19m4YQC7bl3fzBhvYRiH5jBpAKBlNH/view?usp=sharing
+
+
+
+Dumbbell Bar-Grip Sumo Squat
+
+https://drive.google.com/file/d/1liWSzA1oK86g1zhw4dmQ4tctxbEDXvqr/view?usp=sharing
+
+
+
+Dumbbell Bench Squat
+
+https://drive.google.com/file/d/1HnCACfyQmkW4Py-CD2FYDBiYiTgZH9a3/view?usp=sharing
+
+
+
+Dumbbell Bulgarian Split Squat
+
+https://drive.google.com/file/d/1CF4a6RBor9dZINSziufLi9niOWH3BqBD/view?usp=sharing
+
+
+
+Dumbbell Clean
+
+https://drive.google.com/file/d/1hO7IoqmroxdfhEW2cTQhlEEe2lTx0DWM/view?usp=sharing
+
+
+
+Dumbbell Curtsey Lunge
+
+https://drive.google.com/file/d/1JIJOxdvqzIb5lipZ5gZGfOTn\_8y7lb55/view?usp=sharing
+
+
+
+Dumbbell Deadlift
+
+https://drive.google.com/file/d/1gskYC\_AQjcYKxr0Lerc7-pJvrr2QGX6j/view?usp=sharing
+
+
+
+Dumbbell Front Squat
+
+https://drive.google.com/file/d/13CoaLeei23NHdGbh7T5Nm6\_FyRglA-53/view?usp=sharing
+
+
+
+Dumbbell Glute Bridge
+
+https://drive.google.com/file/d/11SAbBXoStD9BPYG\_Sa\_mv8GtB4e2QV5u/view?usp=sharing
+
+
+
+Dumbbell Gobelt Curtsey Lunge
+
+https://drive.google.com/file/d/1SBE6peVJ-3yofl79nperDf2ZN06WumTe/view?usp=sharing
+
+
+
+Dumbbell Goblet Split Squat Front Food Elevanted
+
+https://drive.google.com/file/d/1bdbOZImHPf7RV4OIfwpZ2KZYagLB5sRK/view?usp=sharing
+
+
+
+Dumbbell Goblet Squate
+
+https://drive.google.com/file/d/1upifR72ePURHKDXofrpduogFO28NziQB/view?usp=sharing
+
+
+
+Dumbbell Hip Thrust
+
+https://drive.google.com/file/d/1rTCiMz0rxAI2KWOMkYZMrDhAvjB70Tes/view?usp=sharing
+
+
+
+Dumbbell Lateral Step-Up
+
+https://drive.google.com/file/d/1kq8nNxeDvuP6nB-FOeHPYG2mgxsBwuf7/view?usp=sharing
+
+
+
+Dumbbell Lunge
+
+https://drive.google.com/file/d/16z\_F7iVHEmP3LGDuplJASUtK5u1JTeKw/view?usp=sharing
+
+
+
+Dumbbell One Leg Glute Bridge
+
+https://drive.google.com/file/d/1P1VhIZ9l1jVhtHiTbnST6w5wkLsKTsPS/view?usp=sharing
+
+
+
+Dumbbell One Leg Squat (V2)
+
+https://drive.google.com/file/d/1-SARfplQFFhOz-jrYEzMxaGhJpXVE\_C\_/view?usp=sharing
+
+
+
+Dumbbell One Leg Squat
+
+https://drive.google.com/file/d/1wvi\_dh0q1lJPjzkAGL42YWACY9kmsE0n/view?usp=sharing
+
+
+
+Dumbbell One Leg Step-up
+
+https://drive.google.com/file/d/1X-\_Znj0buZksoNSO-5ekiEwq6-Wm3v0Y/view?usp=sharing
+
+
+
+Dumbbell Pause Squat
+
+https://drive.google.com/file/d/1HeUnxBGW6scrBK0gQN3xGKnKYLF1e1TY/view?usp=sharing
+
+
+
+Dumbbell Real Lunge From Step
+
+https://drive.google.com/file/d/16dNsyu2GyffhtQODT3EG8p40rJLuF7Jc/view?usp=sharing
+
+
+
+Dumbbell Rear Lunge
+
+https://drive.google.com/file/d/1AxZvTIPBEbExzuUamPhSFL0f3vKqtAPa/view?usp=sharing
+
+
+
+Dumbbell Side Lunge (V3)
+
+https://drive.google.com/file/d/1WAl\_XHvLF6Mts6Bs6ULUlAcpKg-7\_ZAw/view?usp=sharing
+
+
+
+Dumbbell Side Lunge
+
+https://drive.google.com/file/d/1mFbDJx\_GNyvf64MDLRxQOllzB\_dVG0iE/view?usp=sharing
+
+
+
+Dumbbell Split Lunge Stretch
+
+https://drive.google.com/file/d/1Cd5sEQ6hjpSkW-k2Lgk9iceNe703pp5E/view?usp=sharing
+
+
+
+Dumbbell Split Squat Front Foot Elevented
+
+https://drive.google.com/file/d/1woUIouXriqfE-uxAp29CWl-dEE7wKzJh/view?usp=sharing
+
+
+
+Dumbbell Split Squat
+
+https://drive.google.com/file/d/1s2y1PB8aGx4GKAaHIcKMqDd87V8fOfGN/view?usp=sharing
+
+
+
+Dumbbell Squat
+
+https://drive.google.com/file/d/1OMMUo1M5PV3xBBl985ismA9jUgHK7DOJ/view?usp=sharing
+
+
+
+Dumbbell Static Lunge
+
+https://drive.google.com/file/d/1ES-\_-CtfBTVe4Oe17uV1iZ4L7UNbKwnW/view?usp=sharing
+
+
+
+Dumbbell Step-Up
+
+https://drive.google.com/file/d/1xaY1r0KNwzZ9E5Ewhe91o-3LLghfJfLO/view?usp=sharing
+
+
+
+Dumbbell Sumo Deadlift.
+
+https://drive.google.com/file/d/1\_Z23o1js47asyUZ5sIxoLq7v-M7znviM/view?usp=sharing
+
+
+
+Dumbbell Sumo Squate
+
+https://drive.google.com/file/d/1OMF0AWHALt2uAkekIEWU-h\_8XvSpFL6m/view?usp=sharing
+
+
+
+Dumbbell Thruster
+
+https://drive.google.com/file/d/1XRks83rQ6yvmGPf-1kt92pwz6HJ89hik/view?usp=sharing
+
+
+
+Dumbbell Lying Femoral
+
+https://drive.google.com/file/d/1Dx4uErjPpi2kPPt3\_oox-ayRJWEzI\_Wf/view?usp=sharing
+
+
+
+Dumbbell Bent-Over Reverse Row
+
+https://drive.google.com/file/d/1GX7X9cFaN0BTD2A5L2Vpl0ZWtexdUk4n/view?usp=sharing
+
+
+
+Dumbbell Bent-Over Row
+
+https://drive.google.com/file/d/1tsFgTTYlMu9dxQG3XrbqXXCrR6yWWZ\_N/view?usp=sharing
+
+
+
+Dumbbell Hammer-Grip Incline Bench Two Arm Row
+
+https://drive.google.com/file/d/1Lua5L2N9YkXTn8gSdnJBWa9bP0ppkj8R/view?usp=sharing
+
+
+
+Dumbbell Incline Row
+
+https://drive.google.com/file/d/188C78dA7GRSlBNIZTdDdlsCKxN0yOmS\_/view?usp=sharing
+
+
+
+Dumbbell One-Leg Deadlift
+
+https://drive.google.com/file/d/1WhYCl92GxMydmqeTlu1ujvLD07t\_NTH8/view?usp=sharing
+
+
+
+Dumbbell Plam Rotational Bent-Over Row
+
+https://drive.google.com/file/d/1e9C0L\_waLmNEeeuXBgnarJi\_s8Jk9tbp/view?usp=sharing
+
+
+
+Dumbbell Pronated to netural-Grip Row
+
+https://drive.google.com/file/d/1kQ9xMpO00yX4VejQMfVDfKWTcLvnRVhO/view?usp=sharing
+
+
+
+Dumbbell Rear Delt Row
+
+https://drive.google.com/file/d/1qgpysxlYWhWiAFkh\_G9k4UzzLGu9XmSw/view?usp=sharing
+
+
+
+Dumbbell Renegade Row
+
+https://drive.google.com/file/d/1GMdZNeoRzoooW1w01FnLtHyIjj2WdCi3/view?usp=sharing
+
+
+
+Dumbbell Reverse-Grip Incline Row
+
+https://drive.google.com/file/d/1-UYigf\_rklDLTp6xDNEZoXlR6iDqPsN1/view?usp=sharing
+
+
+
+Dumbbell Romanian Deadlift
+
+https://drive.google.com/file/d/1Uq0IDIu0vvRMwVQoNFyePZlQk4s2yVNt/view?usp=sharing
+
+
+
+Dumbbell Stiff Leg Deadlift (V2)
+
+https://drive.google.com/file/d/1jkSl0wCn1t\_QafYCPD\_I0wt3tnvyMBQr/view?usp=sharing
+
+
+
+Dumbbell Stiff Leg Deadlift
+
+https://drive.google.com/file/d/1kNqtmIiZlGyW7WCT7b4veEJ0AgDe4yj5/view?usp=sharing
+
+
+
+Dumbbell Sumo Pull Through
+
+https://drive.google.com/file/d/10mSB1T8wIhIRa9vFIzAJZoE--TZ0pzoE/view?usp=sharing
+
+
+
+Dumbbell Alternate Shoulder Press
+
+https://drive.google.com/file/d/1AtqxMMZCJEK6028xAHp9MEXBtmI03cai/view?usp=sharing
+
+
+
+Dumbbell Arnold Press
+
+https://drive.google.com/file/d/1O4yzuCnCsbdEXZ5AUsDkhfGkWznSFVRS/view?usp=sharing
+
+
+
+Dumbbell Front Raise
+
+https://drive.google.com/file/d/1TkXlQNqVMTfdcA-O5KSHDJ2rimZuUtch/view?usp=sharing
+
+
+
+Dumbbell Incline Rear Lateral Raise
+
+https://drive.google.com/file/d/1tGSX2xJPgdAlEsZ5-Q2lVjf9ia65gSoI/view?usp=sharing
+
+
+
+Dumbbell Iron Cross
+
+https://drive.google.com/file/d/1DCH4lv1rq16nTsqLjk\_qHPiJd\_pMzU8I/view?usp=sharing
+
+
+
+Dumbbell One Arm Leaning Lateral Raise
+
+https://drive.google.com/file/d/1owbgl2xUJcOUxX9fPyOXxxqTaaFNBg46/view?usp=sharing
+
+
+
+Dumbbell One Arms Lateral Raise
+
+https://drive.google.com/file/d/1VpwqlUmY31lyeO0V2V1aR0ct5W\_V1-LS/view?usp=sharing
+
+
+
+Dumbbell Rear Fly
+
+https://drive.google.com/file/d/1N-\_UaU-oA4MvckWOP-t-zBWdXudPcfCp/view?usp=sharing
+
+
+
+Dumbbell Seated Front Raise
+
+https://drive.google.com/file/d/1CuKBdhvvmeIeKCajixTcYU4r8lWrRvAA/view?usp=sharing
+
+
+
+Dumbbell Seated Lateral Raise
+
+https://drive.google.com/file/d/1gNZSTVzDkzVfwuJgjGakAbA9BTI\_5EiD/view?usp=sharing
+
+
+
+Dumbbell Seated Shoulder Press
+
+https://drive.google.com/file/d/1yyFg5QksdYB2DV5hY-3NKB68st9JCUll/view?usp=sharing
+
+
+
+Dumbbell Stamding Lateral Raise
+
+https://drive.google.com/file/d/1VVo4jnTC3oRCNGftVxmiRTOG5YmxrIPM/view?usp=sharing
+
+
+
+Dumbbell Incline Shrug
+
+https://drive.google.com/file/d/1TG-C7L1W0kO-QES9pHfqdfZ4KiLbCQpe/view?usp=sharing
+
+
+
+Dumbbell Shrug
+
+https://drive.google.com/file/d/1FsrkoEMNizo6KqL5KZinsVaUS6OPrfhP/view?usp=sharing
+
+
+
+Dumbbell Cross-Grip Press
+
+https://drive.google.com/file/d/1WnEtPDbSscgPSjcYA6h8v1hKWlcDH6-g/view?usp=sharing
+
+
+
+Dumbbell Incline hammer Press
+
+https://drive.google.com/file/d/1e4CQ1VHzskZ3b6Lo-480K4fSLtNB5Ddm/view?usp=sharing
+
+
+
+Dumbbell Incline Tricep Extension
+
+https://drive.google.com/file/d/1TG53pdCir8aAcLF98MYTJaQVONAeLTGy/view?usp=sharing
+
+
+
+Dumbbell Kickback
+
+https://drive.google.com/file/d/1wVtVTyBDzLjfoSyEEbhVsQAVglycHUZU/view?usp=sharing
+
+
+
+Dumbbell Lying Alternate Extension
+
+https://drive.google.com/file/d/1zzMPOETStbTpZw8ndobt5Taal94OcQIa/view?usp=sharing
+
+
+
+Dumbbell Lying Triceps Extension On Floor
+
+https://drive.google.com/file/d/1iof7nHLuB6dEVTlNkFmuxnOsZ6fnYxZx/view?usp=sharing
+
+
+
+Dumbbell One Arm Triceps Extension (on bench)
+
+https://drive.google.com/file/d/1wKV5AEgwPv2Qv3NqwXuTySeCXbkUFGDt/view?usp=sharing
+
+
+
+Dumbbell Pronate-Grip Triceps Extension
+
+https://drive.google.com/file/d/1av4Mwt7dM2APNxNYgPOmkn0zPWtx3mEI/view?usp=sharing
+
+
+
+Dumbbell Seated Kickback
+
+https://drive.google.com/file/d/14i8SPNxr8La1oScdZLeqJa\_dM7\_gyYkg/view?usp=sharing
+
+
+
+Dumbbell Seated Triceps Extension
+
+https://drive.google.com/file/d/1IcniIJHkgCpfNU6UleZM11ogYsRBUtWt/view?usp=sharing
+
+
+
+Dumbbell Standing Kickback
+
+https://drive.google.com/file/d/141xP7VNltdtrE\_qqLfMv7I0J4Zj\_DNg7/view?usp=sharing
+
+
+
+Dumbbell Standing Triceps Extension
+
+https://drive.google.com/file/d/1j8WFIlcQmMObGCc2z8CfQOBMpQMAtHJ6/view?usp=sharing
+
+
+
+EZ Barbell Curl
+
+https://drive.google.com/file/d/1SHsSwreK2lJtNh1oYPIXMqSpNK9RO85W/view?usp=sharing
+
+
+
+EZ-Barbell Close Grip Curl
+
+https://drive.google.com/file/d/1djJxWxajjgSX9He6WlL8qvmxyIBS7hQQ/view?usp=sharing
+
+
+
+BZ-Barbell Reverse-Grip Close
+
+https://drive.google.com/file/d/1EXP2RdZm\_SC8bLUJ8HFxrYOMQMbC5JrB/view?usp=sharing
+
+
+
+EZ-Barbell Anti-Gravity Press
+
+https://drive.google.com/file/d/1CYwarYslGszIRLx\_dJkvRFVwhcwIe7QT/view?usp=sharing
+
+
+
+Hand Behind Hand Chest Squeeze
+
+https://drive.google.com/file/d/1-7-WYOcTNPOHlkwwTN\_HTxeygA8W7a49/view?usp=sharing
+
+
+
+palms Above Hand Elbow Squeeze
+
+https://drive.google.com/file/d/1O5AsMxzAuqS-\_5xCKS8es7oPbbrPap14/view?usp=sharing
+
+
+
+Seated Back Squeeze-1
+
+https://drive.google.com/file/d/1QeBCMyE2Eoncv0BazTZ4OOK1Cukqsor-/view?usp=sharing
+
+
+
+Y Leg Squeeze and Curl
+
+https://drive.google.com/file/d/1J41x3-khd3NXz0PM24h9Mrz\_LYlFd4fa/view?usp=sharing
+
+
+
+EZ-Bar Close-Grip Banch Press
+
+https://drive.google.com/file/d/1lSUlmFyJHrqO07PWPSy52ghrOH0dIXIP/view?usp=sharing
+
+
+
+EZ-Barbell Lying Triceps Extension
+
+https://drive.google.com/file/d/1OHqJrm4M7dkIgWHDgR96yVtfEYBcrrsK/view?usp=sharing
+
+
+
+Kettelbell Overhand-Grip Swing
+
+https://drive.google.com/file/d/11KZl2ejqozfUNRAu5uCYJze0TvYD7aQt/view?usp=sharing
+
+
+
+Kettelebell Bent Press
+
+https://drive.google.com/file/d/1fOXP4qaXqGuVC2CKa568CJt6SHLa84qJ/view?usp=sharing
+
+
+
+Kettelebell deadlift
+
+https://drive.google.com/file/d/1kE41K2gbVtoIq53mKxSNCoOFTkkzx7fy/view?usp=sharing
+
+
+
+Kettelebell One Arm Clean
+
+https://drive.google.com/file/d/1McJd0L-IF4Ebwjfmo\_shOL95xV1VTtK8/view?usp=sharing
+
+
+
+Kettelebell One Arm Swing
+
+https://drive.google.com/file/d/10J5szOwfTccxNoFabOSkfBN5FWdgO7Dy/view?usp=sharing
+
+
+
+Kettelebell Rear Delt Row
+
+https://drive.google.com/file/d/1yrDonFXp-wNT6wGchAT40bJb9wGeLfsD/view?usp=sharing
+
+
+
+Kettelebell Windmill
+
+https://drive.google.com/file/d/1qOrDI\_q3xpBT-edpxnHdVwNYRsWr1Hql/view?usp=sharing
+
+
+
+Kettlebell Front Squat
+
+https://drive.google.com/file/d/1UvWN6Ak5zMXyA3qICTjeSMNOGckdgVmv/view?usp=sharing
+
+
+
+Kettlebell Swing
+
+https://drive.google.com/file/d/1I4Aq1YEFHB8Ki6XSefS2axGn52brCD66/view?usp=sharing
+
+
+
+Run on Treadmill
+
+https://drive.google.com/file/d/1NALiErfVxCKH8-6mgfMXDyFrljiRs7Pr/view?usp=sharing
+
+
+
+Lever Seated Calf Press
+
+https://drive.google.com/file/d/1ar-B\_AmKpOt0Lx5EOzmJnBD-7a5ckKob/view?usp=sharing
+
+
+
+Lever Seated Calf Raise (Plate)
+
+https://drive.google.com/file/d/1sAfRPKAp8Cixulm41-f\_\_N7FzbU-kCQ8/view?usp=sharing
+
+
+
+Lever Stinding Calf Raise
+
+https://drive.google.com/file/d/1r-MyxkNFODiG1Shs-NYFracICt0YY\_Dl/view?usp=sharing
+
+
+
+Lever Chest Press (Plate)
+
+https://drive.google.com/file/d/1HH2zCca-YlGlNz\_TXZQbtD-OqWuwUlXG/view?usp=sharing
+
+
+
+Lever Seated Peck deck
+
+https://drive.google.com/file/d/1AvRcNgukUEbm\_TJA1KIZd3l43n8hd5fc/view?usp=sharing
+

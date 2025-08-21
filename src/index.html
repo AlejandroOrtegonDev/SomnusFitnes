@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://unpkg.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self' https://wa.me;">
+    <title>Somnus Fitness - Creador de Rutinas</title>
+    <link rel="stylesheet" href="./styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <script src="https://unpkg.com/jspdf@latest/dist/jspdf.umd.min.js"></script>
+    <script src="./libs/qrcode.min.js"></script>
+
+    <script>
+        // Asegurar que jsPDF esté disponible globalmente
+        window.addEventListener('load', function() {
+            if (typeof window.jspdf === 'undefined') {
+                console.error('jsPDF no se cargó correctamente');
+            } else {
+                console.log('jsPDF cargado correctamente');
+            }
+            
+            // Verificar que QRCode esté disponible
+            if (typeof QRCode === 'undefined') {
+                console.error('QRCode no se cargó correctamente');
+            } else {
+                console.log('QRCode cargado correctamente');
+            }
+        });
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    
+    <style>
+        body { font-family: 'Montserrat', sans-serif; }
+        .sheet {
+            background-color: white; padding: 2rem; margin-bottom: 2rem;
+            border-radius: 0.5rem; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+        }
+        .custom-input-group { display: flex; align-items: center; border-bottom: 1px solid #e5e7eb; }
+        .custom-input-group:last-child { border-bottom: none; }
+        .custom-input-group label { font-weight: 700; color: #4b5563; padding: 0.75rem; width: 120px; flex-shrink: 0; }
+        .custom-input-group input { border: none; padding: 0.75rem; width: 100%; background-color: transparent; }
+        .custom-input-group input:focus { outline: none; box-shadow: none; }
+        /* Reglas para mostrar cuadriculado en tablas de medidas */
+        #tabla-hombre-container table,
+        #tabla-mujer-container table { border-collapse: collapse; table-layout: fixed; width: 100%; }
+        #tabla-hombre-container table th, #tabla-mujer-container table th,
+        #tabla-hombre-container table td, #tabla-mujer-container table td {
+            border: 1px solid #000; /* fuerza el borde visible en celdas vacías */
+            padding: 8px;
+        }
+        #days-container { 
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+            padding: 1.5rem;
+        }
+        .days-row {
+            display: flex;
+            gap: 1rem;
+            width: 100%;
+            align-items: flex-start; /* cada tarjeta crece en alto sin estirar a las demás */
+        }
+        .days-row .day-card {
+            flex: 0 0 auto; /* tamaño fijo por tarjeta */
+            min-width: 0;
+        }
+        /* Estilo para tarjetas de día como tabla con bordes negros */
+        .day-card { 
+            background: #fff; 
+            border: 2px solid #000; 
+            padding: 0; 
+            border-radius: 0; 
+            width: 340px;
+            min-height: 360px;
+            height: auto;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        .day-table { 
+            width: 100%; 
+            height: auto;
+            border-collapse: collapse; 
+            table-layout: fixed; 
+            font-size: 10px;
+        }
+        .day-table th, .day-table td { 
+            border: 1px solid #000; 
+            padding: 4px; 
+            line-height: 1.15; 
+            word-break: break-word; 
+            font-size: 10px;
+            vertical-align: middle;
+        }
+        /* Cuadros un poco más grandes */
+        .day-table tbody tr { height: 56px; }
+        .day-table td:first-child { text-align: left; }
+        .day-table th:not(:first-child), .day-table td:not(:first-child) { text-align: center; }
+        .day-table td.progressive-cell { text-align:center; }
+        .day-table .progressive-checkbox { width:18px; height:18px; margin:0 auto; display:inline-block; }
+        .day-table col.col-name { width: 58%; }
+        .day-table col.col-sp { width: 14%; }
+        .day-table col.col-s { width: 14%; }
+        .day-table col.col-r { width: 14%; }
+        .day-table thead th { background: #ffffff; font-weight: 700; text-align: left; }
+        .day-title-cell { font-weight: 700; }
+        .add-exercise-cell, .remove-exercise-cell { cursor: pointer; font-weight: 600; }
+        .exercise-link { padding: 0; }
+        .exercise-name { display: flex; align-items: center; height: 48px; padding: 0 6px; text-decoration: underline; color: #1d4ed8; cursor: pointer; white-space: normal; word-break: break-word; font-size: 10px; }
+        /* Estilos para las pestañas de la barra lateral */
+        .sidebar-tab {
+            flex-grow: 1;
+            padding: 0.75rem 0.5rem;
+            cursor: pointer;
+            border: none;
+            background: none;
+            color: #6b7280; /* gray-500 */
+            font-weight: 600;
+            transition: all 0.2s ease-in-out;
+            border-bottom: 3px solid transparent;
+        }
+        .sidebar-tab.active-tab {
+            color: #3b82f6; /* blue-500 */
+            border-bottom: 3px solid #3b82f6;
+        }
+
+        @media print {
+            .no-print { display: none !important; }
+            body { background-color: white; }
+            main { padding: 0; overflow: visible; }
+            .sheet { box-shadow: none; border: 1px solid #ccc; margin: 0; page-break-after: always; }
+            aside { display: none; }
+
+            /* Unificar con styles.css para evitar conflictos */
+            #days-container { display: flex; flex-direction: column; gap: .75rem; padding: 0; }
+            .days-row { display: flex; gap: .75rem; width: 100%; page-break-inside: avoid; }
+            .days-row .day-card { flex: 1; min-width: 0; }
+            .day-card { 
+                break-inside: avoid; 
+                page-break-inside: avoid; 
+                box-shadow: none; 
+                border: 2px solid #000; 
+                margin: 0; 
+                width: 260px;  /* tamaño base para PDF */
+                min-height: 300px;
+                height: auto; /* crecer según contenido sin desbordar a otras */
+                flex: 0 0 auto;
+                overflow: hidden; /* evitar desbordes en PDF */
+            }
+            .day-table { 
+                table-layout: fixed; 
+                font-size: 9px; 
+                width: 100%; 
+                height: 100%;
+                border-collapse: collapse; 
+            }
+            .day-table th, .day-table td { 
+                word-break: break-word; 
+                padding: 3px; 
+                font-size: 9px;
+                border: 1px solid #000;
+                line-height: 1.15;
+                vertical-align: middle;
+            }
+            .day-table tbody tr { height: 46px; }
+            .day-header { background: #000 !important; color: #fff !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+            .exercise-name { height: 44px; padding: 0 4px; font-size: 9px; }
+            .add-exercise-btn { display: none !important; }
+        }
+
+        /* Splash screen */
+        #splash-screen {
+            position: fixed; inset: 0; z-index: 1000;
+            display: flex; align-items: center; justify-content: center;
+            background: radial-gradient(ellipse at center, #f8fafc 0%, #e5e7eb 100%);
+            transition: opacity .4s ease;
+        }
+        #splash-screen.hidden { opacity: 0; pointer-events: none; }
+        #splash-screen .splash-content { text-align: center; color: #374151; }
+        #splash-screen .splash-logo { width: 120px; height: auto; margin-bottom: 12px; border-radius: 8px; }
+        #splash-screen .splash-title { font-weight: 700; font-size: 1.5rem; margin-bottom: .25rem; }
+        #splash-screen .splash-sub { color: #6b7280; }
+        #splash-screen .spinner {
+            margin: 16px auto 0; width: 40px; height: 40px;
+            border: 4px solid #d1d5db; border-top-color: #3b82f6; border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+    </style>
+</head>
+<body class="bg-gray-100">
+    <div id="splash-screen">
+        <div class="splash-content">
+            <img src="../img/Somnusfitnes.jpg" alt="Somnus Fitness" class="splash-logo"/>
+            <div class="splash-title">Bienvenido</div>
+            <div class="splash-sub">Cargando componentes...</div>
+            <div class="spinner"></div>
+        </div>
+    </div>
+    
+    <div class="flex w-screen h-screen">
+        <aside class="w-80 bg-white p-6 flex flex-col shadow-2xl z-10 no-print">
+            <div class="text-center mb-4">
+                 <div class="text-4xl font-bold" style="color: #4a4a4a;">
+                    <span style="color: #3b82f6;">Generado de </span><span style="color: #8b5cf6;">rutinas</span>
+                 </div>
+            </div>
+
+            <div id="sidebar-tabs" class="flex justify-center border-b mb-4">
+                <button data-tab="cargar" class="sidebar-tab active-tab text-sm">Rutinas</button>
+                <button data-tab="plantillas" class="sidebar-tab text-sm">Plantillas</button>
+                <button data-tab="acciones" class="sidebar-tab text-sm">Acciones</button>
+            </div>
+
+            <div class="flex-grow flex flex-col">
+                <div id="tab-content-cargar" class="tab-content">
+                    <div class="p-4 bg-gray-100 rounded-xl">
+                        <label for="search-client" class="block mb-2 text-gray-800 font-bold text-lg">Cargar Rutina</label>
+                        <!-- Filtros avanzados -->
+                        <div class="space-y-3 mb-4">
+                            <div class="flex gap-2">
+                                <input type="search" id="search-client" placeholder="Buscar por nombre..." class="flex-1 w-full p-2 rounded-md border-2 border-gray-300 focus:border-blue-500 focus:ring-0">
+                                <button id="btn-limpiar-filtros" class="px-3 py-2 bg-gray-500 text-white rounded-md hover:bg-gray-600 text-sm">Limpiar</button>
+                            </div>
+                        </div>
+                        <div id="client-list" class="mt-2 max-h-64 overflow-y-auto space-y-1"></div>
+                        <p id="no-results" class="text-center text-gray-500 mt-2 hidden">No se encontraron resultados</p>
+                    </div>
+                </div>
+                <div id="tab-content-plantillas" class="tab-content hidden">
+                    <div class="p-4 bg-gray-100 rounded-xl">
+                        <label class="block mb-2 text-gray-800 font-bold text-lg">Importar Plantilla</label>
+                        <div class="space-y-3">
+                            <div>
+                                <label for="template-objetivo" class="text-sm font-semibold text-gray-600">Objetivo</label>
+                                <select id="template-objetivo" class="w-full p-2 rounded-md border-2 border-gray-300">
+                                    <option value="hipertrofia">Hipertrofia</option>
+                                    <option value="fuerza">Fuerza</option>
+                                    <option value="perdida-peso">Pérdida de peso</option>
+                                    <option value="rehabilitacion">Rehabilitación</option>
+                                    <option value="resistencia">Resistencia</option>
+                                </select>
+                            </div>
+                            <div>
+                                <label for="template-nivel" class="text-sm font-semibold text-gray-600">Nivel</label>
+                                <select id="template-nivel" class="w-full p-2 rounded-md border-2 border-gray-300">
+                                    <option value="basico">Básico</option>
+                                    <option value="intermedio">Intermedio</option>
+                                    <option value="avanzado">Avanzado</option>
+
+                                </select>
+                            </div>
+                            <div>
+                                <label class="block mb-2 text-gray-700 font-bold">Género</label>
+                                <div class="flex items-center space-x-4">
+                                    <label class="flex items-center"><input type="radio" id="template-radio-hombre" name="template-genero" value="hombre" class="mr-2 h-4 w-4 text-blue-600 border-gray-300 focus:ring-blue-500" checked> Hombre</label>
+                                    <label class="flex items-center"><input type="radio" id="template-radio-mujer" name="template-genero" value="mujer" class="mr-2 h-4 w-4 text-pink-600 border-gray-300 focus:ring-pink-500"> Mujer</label>
+                                </div>
+                            </div>
+                            <div id="template-opcion-wrapper" class="hidden">
+                                <label for="template-opcion" class="text-sm font-semibold text-gray-600">Opción</label>
+                                <select id="template-opcion" class="w-full p-2 rounded-md border-2 border-gray-300">
+                                    <option value="1">Opción 1</option>
+                                    <option value="2">Opción 2</option>
+                                </select>
+                            </div>
+                            <button id="btn-load-template" class="w-full py-2 bg-purple-600 text-white rounded-lg shadow-md hover:bg-purple-700 transition-all font-bold">Cargar</button>
+                        </div>
+                    </div>
+                </div>
+                <div id="tab-content-acciones" class="tab-content hidden h-full">
+                    <div class="p-4 bg-gray-100 rounded-xl flex flex-col h-full">
+                        <h3 class="block mb-4 text-gray-800 font-bold text-lg text-center">Acciones</h3>
+                        <div class="space-y-3 mt-auto">
+                            <button id="btn-new-routine" class="w-full py-3 bg-indigo-500 text-white rounded-lg shadow-md hover:bg-indigo-600 transition-all font-bold">Nueva Rutina</button>
+                            <button id="btn-save" class="w-full py-3 bg-green-500 text-white rounded-lg shadow-md hover:bg-green-600 transition-all font-bold">Guardar Cambios</button>
+                            <button id="btn-open-folder" class="w-full py-3 bg-gray-700 text-white rounded-lg shadow-md hover:bg-gray-800 transition-all font-bold">Abrir Carpeta</button>
+                            <hr class="my-2 border-gray-400">
+                            <button id="btn-generate-pdf" class="w-full py-3 bg-blue-600 text-white rounded-lg shadow-md hover:bg-blue-700 transition-all font-bold">Guardar en PDF</button>
+                            <button id="btn-whatsapp-send" class="w-full py-3 bg-green-600 text-white rounded-lg shadow-md hover:bg-green-700 transition-all font-bold flex items-center justify-center gap-2">
+                                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                                    <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893A11.821 11.821 0 0020.885 3.513"/>
+                                </svg>
+                                📱 Enviar por WhatsApp
+                            </button>
+                             <hr class="my-2 border-gray-400">
+                             <button id="btn-configure-exercises" class="w-full py-3 bg-purple-600 text-white rounded-lg shadow-md hover:bg-purple-700 transition-all font-bold">Configurar ejercicios</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <main class="flex-grow overflow-y-auto bg-gray-200 p-6">
+            <div id="sheet-seguimiento" class="sheet">
+                <div class="flex justify-between items-start mb-8 flex-wrap">
+                    <div class="w-full md:w-2/5 mb-4 md:mb-0">
+                        <div class="personal-data-container border-2 border-gray-300 rounded-xl overflow-hidden shadow-sm">
+                            <div class="custom-input-group"><label>FECHA</label><input type="date" id="sheet-fecha"></div>
+                            <div class="custom-input-group"><label>NOMBRE</label><input type="text" id="sheet-nombre"></div>
+                            <div class="custom-input-group"><label>EDAD</label><input type="number" id="sheet-edad"></div>
+                            <div class="custom-input-group"><label>EPS</label><input type="text" id="sheet-eps"></div>
+                            <div class="custom-input-group"><label>OBJETIVOS</label><input type="text" id="sheet-objetivos"></div>
+                            <div class="custom-input-group"><label>CONTACTO</label><input type="text" id="sheet-contacto"></div>
+                            <div class="custom-input-group"><label>WHATSAPP</label><input type="tel" id="sheet-whatsapp" placeholder="3001234567"></div>
+                        </div>
+                    </div>
+                    <div class="w-full md:w-1/3 flex justify-center items-center mb-4 md:mb-0">
+                        <img src="../img/Somnusfitnes.jpg" alt="Somnus Fitness" class="h-32 md:h-40 w-auto max-w-full object-contain mx-auto"/>
+                    </div>
+                    <div class="w-full md:w-1/4 text-right space-y-6">
+                        <div class="inline-block text-center">
+                            <input type="text" class="border-b-2 border-gray-400 w-full text-center focus:outline-none pb-1" id="sheet-firma"><label class="block mt-1 text-gray-600">Firma</label>
+                        </div>
+                        <div class="inline-block text-center">
+                            <input type="text" class="border-b-2 border-gray-400 w-full text-center focus:outline-none pb-1" id="sheet-cedula"><label class="block mt-1 text-gray-600">Cédula</label>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="tablas-container">
+                    <div id="tabla-hombre-container" class="border-2 border-gray-300 rounded-xl overflow-auto w-full shadow-sm">
+                        <h3 class="font-bold text-xl p-3 text-left bg-gray-50 border-b-2 border-gray-300">HOMBRE</h3>
+                        <table class="w-full border-collapse text-base"></table>
+                    </div>
+                    <div id="tabla-mujer-container" class="border-2 border-gray-300 rounded-xl overflow-auto w-full mt-6 shadow-sm hidden">
+                        <h3 class="font-bold text-xl p-3 text-left bg-gray-50 border-b-2 border-gray-300">MUJER</h3>
+                        <table class="w-full border-collapse text-base"></table>
+                    </div>
+                </div>
+
+                <p class="text-xs text-gray-500 text-justify mt-6">NOTA: El gimnasio no se hace responsable por el uso inadecuado de las instalaciones, equipos o por lesiones ocurridas durante el entrenamiento. Es responsabilidad del usuario asegurarse de que se encuentra en condiciones de salud aptas para realizar actividad física. Consulte a su médico antes de iniciar cualquier programa de ejercicios.</p>
+                <p class="text-center font-bold mt-2 text-sm text-gray-700">NOS RESERVAMOS EL DERECHO DE ADMISIÓN</p>
+            </div>
+
+            <div id="sheet-calentamiento" class="sheet">
+                <h2 class="text-center uppercase font-bold text-4xl mb-8">Calentamiento</h2>
+                <textarea id="calentamiento-text" class="w-full h-64 p-4 border-2 border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500 text-lg" placeholder="Describe la rutina de calentamiento aquí..."></textarea>
+            </div>
+
+            <div id="sheet-rutina" class="sheet">
+                <h2 class="text-center uppercase font-bold text-4xl mb-8">RUTINA DE EJERCICIOS</h2>
+                <div class="flex justify-center gap-4 mb-6 no-print">
+                    <button id="btn-add-day" class="px-5 py-2 cursor-pointer rounded-lg border border-blue-600 bg-blue-600 text-white hover:bg-blue-700 shadow-md transition-all">Agregar Día</button>
+                    <button id="btn-remove-day" class="px-5 py-2 cursor-pointer rounded-lg border border-red-600 bg-red-600 text-white hover:bg-red-700 shadow-md transition-all">Eliminar Último Día</button>
+                </div>
+                <div id="days-container" class="gap-6"></div>
+            </div>
+        </main>
+    </div>
+
+    <div id="exercise-modal" class="hidden fixed z-50 inset-0 bg-gray-600 bg-opacity-75 flex justify-center items-center">
+        <div class="bg-white rounded-lg shadow-xl p-6 w-11/12 max-w-2xl max-h-[70vh] overflow-y-auto relative">
+            <span class="close-btn absolute top-2 right-4 text-gray-500 text-3xl font-bold hover:text-black cursor-pointer">&times;</span>
+            <h2 class="text-2xl font-bold mb-4 text-center">Seleccionar Ejercicio</h2>
+            <div id="exercise-selection"></div>
+        </div>
+    </div>
+
+    <div id="toast-notification" class="hidden fixed bottom-5 right-5 bg-green-500 text-white py-2 px-4 rounded-lg shadow-xl transition-opacity duration-300 z-50">Mensaje</div>
+    <div id="confirmation-modal" class="hidden fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center z-50">
+        <div class="bg-white p-6 rounded-lg shadow-xl text-center">
+            <p id="confirmation-message" class="mb-4">¿Estás seguro?</p>
+            <div class="space-x-4">
+                <button id="confirm-yes" class="px-4 py-2 bg-red-600 text-white rounded-lg">Sí</button>
+                <button id="confirm-no" class="px-4 py-2 bg-gray-300 rounded-lg">No</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal QR WhatsApp -->
+    <div id="whatsapp-qr-modal" class="hidden fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center z-50">
+        <div class="bg-white p-6 rounded-lg shadow-xl text-center w-96">
+            <h3 class="text-lg font-bold mb-3">Conectar WhatsApp</h3>
+            <p class="text-sm text-gray-600 mb-3">Escanea este código con WhatsApp en tu teléfono: Menú > Dispositivos vinculados</p>
+            <div class="flex justify-center mb-4">
+                <div id="whatsapp-qr-canvas" class="w-64 h-64 bg-white border border-gray-300 flex items-center justify-center"></div>
+            </div>
+            <button id="whatsapp-qr-close" class="px-4 py-2 bg-gray-300 rounded-lg">Cerrar</button>
+            <button id="test-qr-btn" class="px-4 py-2 bg-blue-500 text-white rounded-lg ml-2">Probar QR</button>
+        </div>
+    </div>
+
+    <!-- Modal para ingresar número de WhatsApp -->
+    <div id="whatsapp-phone-modal" class="hidden fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center z-50" style="z-index: 9999;">
+        <div class="bg-white rounded-lg p-6 w-96 mx-4 shadow-2xl border-2 border-gray-200 relative">
+            <!-- Botón X para cerrar -->
+            <button id="whatsapp-phone-close" class="absolute top-3 right-3 text-gray-400 hover:text-gray-600 text-2xl font-bold leading-none w-8 h-8 flex items-center justify-center rounded-full hover:bg-gray-100 transition-all">
+                ×
+            </button>
+            
+            <h3 class="text-xl font-bold mb-4 text-center text-green-600 pr-8">Enviar por WhatsApp</h3>
+            <p class="text-sm text-gray-700 mb-4 text-center">Ingresa el número de WhatsApp al que enviar la rutina:</p>
+            <input type="tel" id="whatsapp-phone-input" class="w-full p-3 border-2 border-green-300 rounded-lg text-center text-lg focus:border-green-500 focus:outline-none" 
+                   placeholder="Ej: 3001234567" maxlength="15">
+            <div class="flex gap-3 mt-6">
+                <button id="whatsapp-phone-send" class="flex-1 py-3 bg-green-600 text-white rounded-lg hover:bg-green-700 font-semibold">📤 Enviar</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Configurar Ejercicio -->
+    <div id="config-exercise-modal" class="hidden fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center z-50">
+        <div class="bg-white p-6 rounded-lg shadow-xl w-11/12 max-w-2xl relative" style="max-height:80vh; overflow-y:auto;">
+            <button id="config-exercise-close" class="absolute top-3 right-3 text-gray-500 hover:text-black text-2xl leading-none">&times;</button>
+            <h3 class="text-xl font-bold mb-4">Agregar/Editar Ejercicio</h3>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div>
+                    <div class="space-y-3">
+                        <div>
+                            <label class="block text-sm font-semibold text-gray-700 mb-1" for="config-category">Categoría</label>
+                            <input id="config-category" list="categories-list" type="text" class="w-full p-2 border-2 border-gray-300 rounded-md" placeholder="Ej: Pecho, Espalda, Pierna..." />
+                            <datalist id="categories-list"></datalist>
+                        </div>
+                        <div>
+                            <label class="block text-sm font-semibold text-gray-700 mb-1" for="config-name">Nombre del ejercicio</label>
+                            <input id="config-name" type="text" class="w-full p-2 border-2 border-gray-300 rounded-md" placeholder="Ej: Press de Banca con Barra" />
+                        </div>
+                        <div>
+                            <label class="block text-sm font-semibold text-gray-700 mb-1" for="config-link">Link (video)</label>
+                            <input id="config-link" type="url" class="w-full p-2 border-2 border-gray-300 rounded-md" placeholder="https://..." />
+                        </div>
+                        <div class="mt-5 flex justify-end gap-3">
+                            <button id="config-exercise-cancel" class="px-4 py-2 bg-gray-300 rounded-lg">Cancelar</button>
+                            <button id="config-exercise-save" class="px-4 py-2 bg-blue-600 text-white rounded-lg">Guardar</button>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="flex items-end gap-2 mb-2">
+                        <div class="flex-1">
+                            <label class="block text-sm font-semibold text-gray-700 mb-1">Buscar</label>
+                            <input id="config-search" type="text" class="w-full p-2 border-2 border-gray-300 rounded-md" placeholder="Filtrar por nombre..." />
+                        </div>
+                        <div>
+                            <label class="block text-sm font-semibold text-gray-700 mb-1">Categoría</label>
+                            <select id="config-filter-category" class="p-2 border-2 border-gray-300 rounded-md min-w-[160px]"></select>
+                        </div>
+                    </div>
+                    <div id="config-list" class="border-2 border-gray-200 rounded-md max-h-72 overflow-y-auto">
+                        <!-- lista de ejercicios por categoría -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+    <script src="./libs/qrcode.min.js"></script>
+    <script src="./js/ui.js"></script>
+    <script src="./js/templates.js"></script>
+    <script src="./js/tables.js"></script>
+    <script src="./js/filters.js"></script>
+    <script src="./js/data.js"></script>
+    <script src="./js/days.js"></script>
+    <script src="./js/window-manager.js"></script>
+    <script src="./whatsapp-sender.js"></script>
+    <script src="./script.js"></script>
+</body>
+</html>

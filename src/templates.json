@@ -1,0 +1,251 @@
+{
+  "hipertrofia": {
+    "basico": {
+      "mujer": {
+        "1": {
+          "calentamiento": "10 min cardio ligero + movilidad articular + estiramientos dinámicos.",
+          "rutina": [
+            { "muscleGroup": "Cuerpo Completo (Opción 1)", "exercises": [
+              { "name": "Sentadillas con Barra (Squats)", "series": "4", "reps": "8-12", "carga": "" },
+              { "name": "Press Inclinado con Mancuernas", "series": "3", "reps": "10-12", "carga": "" },
+              { "name": "Remo con Mancuerna (Dumbbell Row)", "series": "3", "reps": "10-12", "carga": "" }
+            ]}
+          ]
+        },
+        "2": {
+          "calentamiento": "10 min cardio ligero + movilidad.",
+          "rutina": [
+            { "muscleGroup": "Glúteos y Pierna (Opción 2)", "exercises": [
+              { "name": "Hip Thrust", "series": "4", "reps": "10-12", "carga": "" },
+              { "name": "Zancadas (Lunges)", "series": "3", "reps": "10 por pierna", "carga": "" },
+              { "name": "Elevación de Talones de Pie", "series": "3", "reps": "12-15", "carga": "" }
+            ]}
+          ]
+        }
+      },
+      "hombre": {
+        "1": {
+          "calentamiento": "10 min cardio + movilidad básica.",
+          "rutina": [
+            { "muscleGroup": "Pecho y Tríceps", "exercises": [
+              { "name": "Press de Banca con Barra", "series": "4", "reps": "8-12", "carga": "" },
+              { "name": "Fondos para Pecho", "series": "3", "reps": "Fallo", "carga": "" }
+            ]}
+          ]
+        },
+        "2": {
+          "calentamiento": "12 min cardio + movilidad.",
+          "rutina": [
+            { "muscleGroup": "Torso (Opción 2)", "exercises": [
+              { "name": "Press Militar con Barra", "series": "4", "reps": "8-10", "carga": "" },
+              { "name": "Remo con Barra (Barbell Row)", "series": "4", "reps": "8-10", "carga": "" }
+            ]}
+          ]
+        }
+      }
+    },
+    "intermedio": {
+      "hombre": {
+        "default": {
+          "calentamiento": "12-15 min cardio moderado + movilidad completa.",
+          "rutina": [
+            { "muscleGroup": "Torso-Pierna (Intermedio)", "exercises": [
+              { "name": "Press de Banca con Barra", "series": "5", "reps": "6-8", "carga": "" },
+              { "name": "Peso Muerto Rumano", "series": "4", "reps": "8-10", "carga": "" }
+            ]}
+          ]
+        }
+      }
+    },
+    "avanzado": {
+      "mujer": {
+        "1": {
+          "calentamiento": "15-20 min + activación específica.",
+          "rutina": [
+            { "muscleGroup": "Masa muscular (Mujer Avanzado)", "exercises": [
+              { "name": "Hip Thrust", "series": "5", "reps": "6-8", "carga": "Pesado" },
+              { "name": "Sentadilla", "series": "5", "reps": "5-6", "carga": "Pesado" }
+            ]}
+          ]
+        },
+        "2": {
+          "calentamiento": "15-20 min + HIIT suave.",
+          "rutina": [
+            { "muscleGroup": "Pérdida de grasa + Masa", "exercises": [
+              { "name": "Circuito HIIT", "series": "6", "reps": "30/30", "carga": "" },
+              { "name": "Prensa de Piernas (Leg Press)", "series": "4", "reps": "8-10", "carga": "" }
+            ]}
+          ]
+        }
+      },
+      "hombre": {
+        "1": {
+          "calentamiento": "15-20 min cardio + activación.",
+          "rutina": [
+            { "muscleGroup": "Masa muscular (Hombre Avanzado)", "exercises": [
+              { "name": "Press de Banca con Barra", "series": "5", "reps": "5-6", "carga": "Pesado" },
+              { "name": "Peso Muerto Convencional", "series": "5", "reps": "3-5", "carga": "Pesado" }
+            ]}
+          ]
+        }
+      }
+    }
+  },
+  "fuerza": {
+    "basico": {
+      "calentamiento": "10 min cardio + movilidad + series de aproximación.",
+      "rutina": [
+        {
+          "muscleGroup": "Fuerza Compuesta",
+          "exercises": [
+            { "name": "Sentadillas con Barra (Squats)", "series": "5", "reps": "5", "carga": "Progresiva" },
+            { "name": "Press de Banca con Barra", "series": "5", "reps": "5", "carga": "Progresiva" },
+            { "name": "Peso Muerto Convencional", "series": "3", "reps": "5", "carga": "Progresiva" }
+          ]
+        }
+      ]
+    },
+    "intermedio": {
+      "calentamiento": "15 min + activaciones específicas.",
+      "rutina": [
+        {
+          "muscleGroup": "Lower Body",
+          "exercises": [
+            { "name": "Sentadillas con Barra (Squats)", "series": "5", "reps": "3-5", "carga": "Pesado" },
+            { "name": "Peso Muerto Rumano", "series": "4", "reps": "6-8", "carga": "" }
+          ]
+        },
+        {
+          "muscleGroup": "Upper Body",
+          "exercises": [
+            { "name": "Press de Banca con Barra", "series": "5", "reps": "3-5", "carga": "Pesado" },
+            { "name": "Press Militar con Barra", "series": "4", "reps": "5-6", "carga": "" }
+          ]
+        }
+      ]
+    },
+    "avanzado": {
+      "calentamiento": "20 min + trabajo de movilidad específica.",
+      "rutina": [
+        {
+          "muscleGroup": "Power Day",
+          "exercises": [
+            { "name": "Sentadillas con Barra (Squats)", "series": "6", "reps": "2-3", "carga": "Muy Pesado" },
+            { "name": "Press de Banca con Barra", "series": "6", "reps": "2-3", "carga": "Muy Pesado" },
+            { "name": "Peso Muerto Convencional", "series": "4", "reps": "2-3", "carga": "Muy Pesado" }
+          ]
+        }
+      ]
+    }
+  },
+  "perdida-peso": {
+    "basico": {
+      "mujer": {
+        "1": {
+          "calentamiento": "20 min cardio moderado + movilidad.",
+          "rutina": [
+            { "muscleGroup": "Bajar de peso (Mujer Básico Opción 1)", "exercises": [
+              { "name": "Circuito HIIT", "series": "4", "reps": "30 seg", "carga": "" },
+              { "name": "Sentadillas con Peso Corporal", "series": "3", "reps": "15", "carga": "" }
+            ]}
+          ]
+        },
+        "2": {
+          "calentamiento": "20 min elíptica + movilidad.",
+          "rutina": [
+            { "muscleGroup": "Bajar de peso (Mujer Básico Opción 2)", "exercises": [
+              { "name": "Remo", "series": "5", "reps": "500m", "carga": "" },
+              { "name": "Box Jumps", "series": "4", "reps": "10", "carga": "" }
+            ]}
+          ]
+        }
+      },
+      "hombre": {
+        "default": {
+          "calentamiento": "18-20 min cardio + movilidad.",
+          "rutina": [
+            { "muscleGroup": "Bajar de peso (Hombre Básico)", "exercises": [
+              { "name": "Caminadora", "series": "1", "reps": "30 min", "carga": "Moderado" },
+              { "name": "Burpees", "series": "3", "reps": "10", "carga": "" }
+            ]}
+          ]
+        }
+      }
+    },
+    "intermedio": {
+      "calentamiento": "25 min variado + activaciones.",
+      "rutina": [
+        {
+          "muscleGroup": "HIIT Avanzado",
+          "exercises": [
+            { "name": "Sprint en Cinta", "series": "6", "reps": "30 seg", "carga": "" },
+            { "name": "Descanso Activo", "series": "6", "reps": "90 seg", "carga": "" }
+          ]
+        },
+        {
+          "muscleGroup": "Fuerza Metabólica",
+          "exercises": [
+            { "name": "Thrusters", "series": "4", "reps": "12", "carga": "Moderado" },
+            { "name": "Box Jumps", "series": "4", "reps": "10", "carga": "" }
+          ]
+        }
+      ]
+    },
+    "avanzado": {
+      "calentamiento": "30 min + movilidad dinámica.",
+      "rutina": [
+        {
+          "muscleGroup": "Intervalos Progresivos",
+          "exercises": [
+            { "name": "Ciclismo Indoor", "series": "10", "reps": "1 min ON / 1 min OFF", "carga": "Alto/Bajo" },
+            { "name": "Remo", "series": "5", "reps": "500m fuertes", "carga": "" }
+          ]
+        }
+      ]
+    }
+  },
+  "rehabilitacion": {
+    "basico": {
+      "calentamiento": "10 min caminata suave + movilidad controlada.",
+      "rutina": [
+        {
+          "muscleGroup": "Movilidad",
+          "exercises": [
+            { "name": "Estiramientos Suaves", "series": "3", "reps": "30 seg", "carga": "" },
+            { "name": "Movimientos Articulares", "series": "2", "reps": "10", "carga": "" }
+          ]
+        },
+        {
+          "muscleGroup": "Fuerza Suave",
+          "exercises": [
+            { "name": "Ejercicios con Bandas", "series": "2", "reps": "12", "carga": "Banda suave" },
+            { "name": "Movimientos Controlados", "series": "2", "reps": "10", "carga": "" }
+          ]
+        }
+      ]
+    }
+  },
+  "resistencia": {
+    "basico": {
+      "calentamiento": "15 min cardio progresivo + movilidad dinámica.",
+      "rutina": [
+        {
+          "muscleGroup": "Cardio Base",
+          "exercises": [
+            { "name": "Carrera Continua", "series": "1", "reps": "30 min", "carga": "" },
+            { "name": "Bicicleta Estática", "series": "1", "reps": "20 min", "carga": "" }
+          ]
+        },
+        {
+          "muscleGroup": "Resistencia Muscular",
+          "exercises": [
+            { "name": "Sentadillas con Peso Corporal", "series": "4", "reps": "20", "carga": "" },
+            { "name": "Flexiones (Push-ups)", "series": "4", "reps": "Fallo", "carga": "" },
+            { "name": "Plancha Abdominal (Plank)", "series": "3", "reps": "60 seg", "carga": "" }
+          ]
+        }
+      ]
+    }
+  }
+}
+
